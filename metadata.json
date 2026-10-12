@@ -1,0 +1,8 @@
+{
+  "name": "LAUTECH Life - Backend",
+  "description": "Backend API service for LAUTECH Life university simulation using Node.js, Express, and Socket.IO.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,8 +1,8 @@
 # LAUTECH Life — Product Specification
 
-Status: Phase 0 product specification with Phase 1 architecture update  
+Status: Phase 0 product specification with Phase 1B backend implementation update  
 Version: 0.2  
-Updated: 9 October 2026  
+Updated: 9 October 2026 (Phase 1B updated 12 October 2026)  
 Project name: Working name; subject to branding/legal review
 
 This document is the source of truth for development.
@@ -11,7 +11,7 @@ The confirmed architecture uses Supabase PostgreSQL and Supabase Auth, with Node
 
 This revision supersedes the previous MongoDB/separately hosted PostgreSQL alternatives and custom authentication proposal.
 
-Phase 1 covers architectural documentation and environment-variable examples only. It does not create database tables, configure authentication, provision infrastructure, or implement application code.
+Phase 1 covers architectural documentation, environment-variable examples, and the approved Phase 1B runnable Node.js/Express backend foundation (health check and integration scaffolding). It does not create database tables, configure authentication, provision cloud infrastructure, or implement gameplay code.
 
 “Must” indicates a requirement. “Proposed” indicates a decision requiring validation. Prices, schedules, distances, rewards, programmes, and geography are fictional design proposals unless explicitly researched and confirmed.
 
